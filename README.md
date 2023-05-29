@@ -38,7 +38,7 @@ This linear model is a Single Layer Perceptron (SLP) that uses a single PyTorch 
 | RMSE | 59.56 |
 
 ### `MLP`
-This linear model is a Multi-Layer Perceptron (MLP) that uses a stack of three PyTorch `nn.Linear` layers.
+This linear model is a Multi-Layer Perceptron (MLP) that uses a stack of two PyTorch `nn.Linear` layers and one `nn.ReLU` layer.
 
 **Performance on test dataset**
 | **Metric** | **Value** |
