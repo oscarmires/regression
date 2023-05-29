@@ -19,7 +19,7 @@ Dataset reference: https://scikit-learn.org/stable/datasets/toy_dataset.html#dia
 - `mlp_model.ipynb`: Demo of the MLP model (neural network)
 
 ## Instructions
-1. Clone the repo using `git clone https://github.com/oscarmires/regression`
+1. Clone the repo using `git clone https://github.com/oscarmires/regression.git`
 2. Create a virtual environment. Example using **venv**:
   - Create: `python -m venv python3-env`
   - Activate: `source /path/to/your/env/bin/activate`
