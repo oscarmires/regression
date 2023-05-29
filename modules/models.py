@@ -17,7 +17,7 @@ class MLP(nn.Module):
         super(MLP, self).__init__()
         self.linear_stack = nn.Sequential(
             nn.Linear(in_features, h_features),
-            nn.Linear(h_features, h_features),
+            nn.ReLU(h_features),
             nn.Linear(h_features, out_features)
         )
 
