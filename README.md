@@ -9,7 +9,7 @@ Dataset reference: https://scikit-learn.org/stable/datasets/toy_dataset.html#dia
 | Directory name | Content description |
 | -------------- | ------------------- |
 | `data` | Raw dataset |
-| `modules` | `Model`, `Dataset` class declarations |
+| `modules` | `MLP`, `LinearRegression`, `Dataset` class declarations |
 | `notebooks` | Demo notebooks |
 
 
