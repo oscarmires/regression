@@ -5,4 +5,9 @@ By Oscar Miranda Escalante
 
 Diabetes Dataset reference: https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset
 
-
+## Project structure
+| Directory name | Content |
+| -------------- | ------- |
+| `data` | Raw dataset |
+| `modules` | Dataset module |
+| `notebooks`| Model implementation | 
